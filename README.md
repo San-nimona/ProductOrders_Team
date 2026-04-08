@@ -130,7 +130,7 @@ Potential insights from the dashboard:
 - Use audit logs as part of data governance and compliance practice.
 - Reuse the stored procedure as the official source for executive reporting.
 
-## Team presentation plan
+## Group presentation plan
 ### Suggested 10-slide deck
 1. Business context and challenge
 2. Dataset overview
