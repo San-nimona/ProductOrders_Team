@@ -1,0 +1,11 @@
+CustID,CustFirstName,CustLastName,CustAddress,CustCity,CustState,CustZip,CustPhone,CustFax
+26,Leah,Montrose,9140 Briarwood Dr,Columbus,OH,43215,6145558812,
+27,Noah,Pritchard,2207 Lakeview Ave,Milwaukee,WI,53202,4145552271,
+28,Amira,Solomon,77 Pine Crest Rd,Denver,CO,80203,3035559144,3035559145
+29,Elijah,Trenton,505 Maple Ridge Ct,Tempe,AZ,85281,4805556633,
+30,Sophia,Bennett,18 Harbor Way,San Diego,CA,92101,6195551047,
+31,Diego,Valentine,6409 Sunset Blvd,Los Angeles,CA,90028,3235554401,3235554402
+32,Harper,Ellis,1120 Grand Ave,Charlotte,NC,28204,7045557710,
+33,Mateo,Ramirez,339 Cherry Ln,San Antonio,TX,78205,2105555088,
+34,Grace,Whitaker,81 Elm Street,New York,NY,10013,2125557319,
+35,Caleb,Hudson,4100 Oak Terrace,Seattle,WA,98101,2065556620,
