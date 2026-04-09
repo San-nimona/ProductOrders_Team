@@ -130,18 +130,6 @@ Potential insights from the dashboard:
 - Use audit logs as part of data governance and compliance practice.
 - Reuse the stored procedure as the official source for executive reporting.
 
-## Group presentation plan
-### Suggested 10-slide deck
-1. Business context and challenge
-2. Dataset overview
-3. Source-to-database architecture
-4. Database schema and ERD
-5. Data ingestion method
-6. Audit table and trigger design
-7. Stored procedure and business logic
-8. Dashboard walkthrough
-9. Insights for the ELT
-10. Recommendations and next steps
 
 ## Submission checklist
 - SQL schema creation script
