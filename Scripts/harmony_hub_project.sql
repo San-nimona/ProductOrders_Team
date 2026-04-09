@@ -71,7 +71,7 @@ GO
 ---------------------------------------------------------- */
 
 BULK INSERT hh.stg_Customers
-FROM 'C:\\Data\\NewCustomers.csv'
+FROM 'C:\\Data\NewCustomers.csv'
 WITH (
     FIRSTROW = 2,                  -- Skip the header row
     FIELDTERMINATOR = ',',         -- Values are separated by commas
@@ -82,7 +82,7 @@ WITH (
 GO
 
 BULK INSERT hh.stg_Items
-FROM 'C:\\Data\\NewItems.csv'
+FROM 'C:\\Data\NewItems.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -93,7 +93,7 @@ WITH (
 GO
 
 BULK INSERT hh.stg_Orders
-FROM 'C:\\Data\\NewOrders.csv'
+FROM 'C:\\Data\NewOrders.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -104,7 +104,7 @@ WITH (
 GO
 
 BULK INSERT hh.stg_OrderDetails
-FROM 'C:\\Data\\NewOrderDetails.csv'
+FROM 'C:\\Data\NewOrderDetails.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
